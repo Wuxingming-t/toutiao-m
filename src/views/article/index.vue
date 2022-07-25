@@ -133,24 +133,24 @@ export default {
 
 <style lang='less' scoped>
 @import './github-markdown.css';
-.article-container {
-  padding-top: 64px;
-  .main-wrap {
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 92px;
-    bottom: 88px;
-    overflow-y: scroll;
-    background-color: #fff;
-  }
-  .article-detail {
-    .article-title {
-      font-size: 40px;
-      padding: 50px 32px;
-      margin: 0;
-      color: #3a3a3a;
-    }
-  }
-}
+// .article-container {
+//   padding-top: 64px;
+//   .main-wrap {
+//     position: fixed;
+//     left: 0;
+//     right: 0;
+//     top: 92px;
+//     bottom: 88px;
+//     overflow-y: scroll;
+//     background-color: #fff;
+//   }
+//   .article-detail {
+//     .article-title {
+//       font-size: 40px;
+//       padding: 50px 32px;
+//       margin: 0;
+//       color: #3a3a3a;
+//     }
+//   }
+// }
 </style>
